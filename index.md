@@ -5,7 +5,7 @@ title: Home | Cory Benavente
 <h2 class="page-heading">👋🏼 Hi, I'm Cory</h2>
 
   <p>
-    I'm a Product Manager at <a href="https://www.google.com/">Google</a> leading personalization and recommendation teams. We use AI and LLM's to connect users with the most relevant & informative video content.
+    I'm a Product Manager at <a href="https://www.grainger.com//">Grainger</a> leading Search ML teams. We connect users with the most relevant & informative MRO Search results
   </p>
 
   <p>
