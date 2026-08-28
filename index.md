@@ -9,7 +9,7 @@ title: Home | Cory Benavente
   </p>
 
   <p>
-    Before Google I worked at <a href="https://everfi.com/">EVERFI</a>, builing K12 educational tools used by millions of teachers and students all over the globe. Prior to that I was a consultant, growing the federal hiring force at <a href="https://www.usajobs.gov/">USAJOBS</a> and improving hotel stays at <a href="https://www.marriott.com/default.mi">Marriott</a>.
+    Before Grainger I worked at <a href="https://www.google.com/">Google</a>, leading Search Quality teams. Prior to that I worked in EdTech builing K12 educational tools used by millions of teachers and students all over the globe.
   </p>
 
   <p>
